@@ -3,8 +3,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhLim97)](https://github.com/anuraghazra/github-readme-stats)
 
-토이프로젝트 및 교육이수 내역(2020-2학기 ~ 현재) - https://www.notion.so/bdee1edaacb14300b05dae89e6f6bcbe
-
 <!--
 **jhLim97/jhlim97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
